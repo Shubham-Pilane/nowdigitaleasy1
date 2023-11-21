@@ -19,15 +19,20 @@ Base url -
 
 3. API Endpoints
 
-1)To Add new User : Post - /adduser
+1)To Add new User : Post - /api/adduser
 
-2)To get all users : GET - /users
+2)To get all users : GET - /api/users
 
-3)To get peticular user by id  : GET  - /users/:id
+3)To get peticular user by id  : GET  - /api/users/:id
 
-4)To Delete the user : DELETE  - /remove/:id
+4)To Delete the user : DELETE  - /api/remove/:id
 
-5)To update the user : PUT - /updateuser/:id
+5)To update the user : PUT - /api/updateuser/:id
+
+```
+## Deployed Link: nowdigitaleasy1-production.up.railway.app
+
+```
 
 
 # Contact
