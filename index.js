@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 
 
 const {router} = require('./routes/userRoute');
-app.use('/', router);
+app.use('/api', router);
 
 const port = process.env.PORT || 8000; 
 
