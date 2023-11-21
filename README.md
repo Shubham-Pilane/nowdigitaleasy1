@@ -14,8 +14,8 @@
     1)npm install
     2)node index.js
 
-2. Backend is Deployed on  Render
-Base url - 
+2. Backend is Deployed on  railway
+Base URL : nowdigitaleasy1-production.up.railway.app
 
 3. API Endpoints
 
@@ -29,10 +29,7 @@ Base url -
 
 5)To update the user : PUT - /api/updateuser/:id
 
-```
-## Deployed Link: nowdigitaleasy1-production.up.railway.app
 
-```
 
 
 # Contact
